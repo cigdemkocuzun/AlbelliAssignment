@@ -1,0 +1,32 @@
+﻿
+
+INSERT INTO orders.Customers(Id,CreatedOn,Email,Name,WelcomeEmailWasSent) VALUES ('8A812F08-0647-443B-8FA3-A98C3B9493A7',SYSDATETIME(), 'johndoe@mail.com', 'John Doe', 1);
+INSERT INTO orders.Customers(Id,CreatedOn,Email,Name,WelcomeEmailWasSent) VALUES ('42441057-b6c1-4852-9ea7-1f382f99e4eb',SYSDATETIME(), 'janedoe@mail.com', 'Jane Doe', 1);
+
+GO
+
+INSERT INTO orders.Products(Id,CreatedOn,Name,ProductType,PackageWidth) VALUES ('AC246E0C-E8F9-4848-AC0F-6861CD538150',SYSDATETIME(),'Photo Book',0,19);
+INSERT INTO orders.Products(Id,CreatedOn,Name,ProductType,PackageWidth) VALUES ('E5279CE0-1AA0-4012-ABB2-31C81BF0F8A0',SYSDATETIME(),'Calendar',1,10);
+INSERT INTO orders.Products(Id,CreatedOn,Name,ProductType,PackageWidth) VALUES ('A2770746-DCA0-43DE-BEB8-81CAF27FE156',SYSDATETIME(),'Canvas',2,16);
+INSERT INTO orders.Products(Id,CreatedOn,Name,ProductType,PackageWidth) VALUES ('B0F1DDAE-BAE2-4E23-94EF-DFE5923ED7D7',SYSDATETIME(),'Cards',3,4.7);
+INSERT INTO orders.Products(Id,CreatedOn,Name,ProductType,PackageWidth) VALUES ('B3AE17E5-7427-4167-B63F-5C111FF17EC6',SYSDATETIME(),'Mug',4,94);
+
+GO
+
+--PhotoBook price
+INSERT INTO orders.ProductPrices VALUES ('AC246E0C-E8F9-4848-AC0F-6861CD538150', 'USD',200);
+INSERT INTO orders.ProductPrices VALUES ('AC246E0C-E8F9-4848-AC0F-6861CD538150', 'EUR',180);
+--Calendar price
+INSERT INTO orders.ProductPrices VALUES ('E5279CE0-1AA0-4012-ABB2-31C81BF0F8A0', 'USD',40);
+INSERT INTO orders.ProductPrices VALUES ('E5279CE0-1AA0-4012-ABB2-31C81BF0F8A0', 'EUR',35);
+--Canvas price
+INSERT INTO orders.ProductPrices VALUES ('A2770746-DCA0-43DE-BEB8-81CAF27FE156', 'USD',50);
+INSERT INTO orders.ProductPrices VALUES ('A2770746-DCA0-43DE-BEB8-81CAF27FE156', 'EUR',60);
+--Cards price
+INSERT INTO orders.ProductPrices VALUES ('B0F1DDAE-BAE2-4E23-94EF-DFE5923ED7D7', 'USD',10);
+INSERT INTO orders.ProductPrices VALUES ('B0F1DDAE-BAE2-4E23-94EF-DFE5923ED7D7', 'EUR',12);
+--Mug price
+INSERT INTO orders.ProductPrices VALUES ('B3AE17E5-7427-4167-B63F-5C111FF17EC6', 'USD',15);
+INSERT INTO orders.ProductPrices VALUES ('B3AE17E5-7427-4167-B63F-5C111FF17EC6', 'EUR',12);
+GO
+

@@ -1,0 +1,18 @@
+C:\Users\cigdem.koc\Desktop\albellliii\Yeni klasör (5)\sample-dotnet-core-cqrs-api-master\src\Albelli.Domain\bin\Debug\netcoreapp3.1\Albelli.Domain.deps.json
+C:\Users\cigdem.koc\Desktop\albellliii\Yeni klasör (5)\sample-dotnet-core-cqrs-api-master\src\Albelli.Domain\bin\Debug\netcoreapp3.1\Albelli.Domain.dll
+C:\Users\cigdem.koc\Desktop\albellliii\Yeni klasör (5)\sample-dotnet-core-cqrs-api-master\src\Albelli.Domain\bin\Debug\netcoreapp3.1\Albelli.Domain.pdb
+C:\Users\cigdem.koc\Desktop\albellliii\Yeni klasör (5)\sample-dotnet-core-cqrs-api-master\src\Albelli.Domain\obj\Debug\netcoreapp3.1\Albelli.Domain.AssemblyInfoInputs.cache
+C:\Users\cigdem.koc\Desktop\albellliii\Yeni klasör (5)\sample-dotnet-core-cqrs-api-master\src\Albelli.Domain\obj\Debug\netcoreapp3.1\Albelli.Domain.AssemblyInfo.cs
+C:\Users\cigdem.koc\Desktop\albellliii\Yeni klasör (5)\sample-dotnet-core-cqrs-api-master\src\Albelli.Domain\obj\Debug\netcoreapp3.1\Albelli.Domain.csproj.CoreCompileInputs.cache
+C:\Users\cigdem.koc\Desktop\albellliii\Yeni klasör (5)\sample-dotnet-core-cqrs-api-master\src\Albelli.Domain\obj\Debug\netcoreapp3.1\Albelli.Domain.dll
+C:\Users\cigdem.koc\Desktop\albellliii\Yeni klasör (5)\sample-dotnet-core-cqrs-api-master\src\Albelli.Domain\obj\Debug\netcoreapp3.1\Albelli.Domain.pdb
+C:\Users\cigdem.koc\Desktop\albellliii\Yeni klasör (5)\sample-dotnet-core-cqrs-api-master\src\Albelli.Domain\obj\Debug\netcoreapp3.1\Albelli.Domain.csprojAssemblyReference.cache
+C:\Users\cigdem.koc\Desktop\ALBELLI ASSIGNMENT\Albelli Technical Assignment\src\Albelli.Domain\bin\Debug\netcoreapp3.1\Albelli.Domain.deps.json
+C:\Users\cigdem.koc\Desktop\ALBELLI ASSIGNMENT\Albelli Technical Assignment\src\Albelli.Domain\bin\Debug\netcoreapp3.1\Albelli.Domain.dll
+C:\Users\cigdem.koc\Desktop\ALBELLI ASSIGNMENT\Albelli Technical Assignment\src\Albelli.Domain\bin\Debug\netcoreapp3.1\Albelli.Domain.pdb
+C:\Users\cigdem.koc\Desktop\ALBELLI ASSIGNMENT\Albelli Technical Assignment\src\Albelli.Domain\obj\Debug\netcoreapp3.1\Albelli.Domain.AssemblyInfoInputs.cache
+C:\Users\cigdem.koc\Desktop\ALBELLI ASSIGNMENT\Albelli Technical Assignment\src\Albelli.Domain\obj\Debug\netcoreapp3.1\Albelli.Domain.AssemblyInfo.cs
+C:\Users\cigdem.koc\Desktop\ALBELLI ASSIGNMENT\Albelli Technical Assignment\src\Albelli.Domain\obj\Debug\netcoreapp3.1\Albelli.Domain.csproj.CoreCompileInputs.cache
+C:\Users\cigdem.koc\Desktop\ALBELLI ASSIGNMENT\Albelli Technical Assignment\src\Albelli.Domain\obj\Debug\netcoreapp3.1\Albelli.Domain.dll
+C:\Users\cigdem.koc\Desktop\ALBELLI ASSIGNMENT\Albelli Technical Assignment\src\Albelli.Domain\obj\Debug\netcoreapp3.1\Albelli.Domain.pdb
+C:\Users\cigdem.koc\Desktop\ALBELLI ASSIGNMENT\Albelli Technical Assignment\src\Albelli.Domain\obj\Debug\netcoreapp3.1\Albelli.Domain.csprojAssemblyReference.cache

@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\cigdem.koc\\Desktop\\ALBELLI ASSIGNMENT\\Albelli Technical Assignment\\src\\Tests\\Albelli.UnitTests\\Albelli.UnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\cigdem.koc\\Desktop\\ALBELLI ASSIGNMENT\\Albelli Technical Assignment\\src\\Albelli.Domain\\Albelli.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cigdem.koc\\Desktop\\ALBELLI ASSIGNMENT\\Albelli Technical Assignment\\src\\Albelli.Domain\\Albelli.Domain.csproj",
+        "projectName": "Albelli.Domain",
+        "projectPath": "C:\\Users\\cigdem.koc\\Desktop\\ALBELLI ASSIGNMENT\\Albelli Technical Assignment\\src\\Albelli.Domain\\Albelli.Domain.csproj",
+        "packagesPath": "C:\\Users\\cigdem.koc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cigdem.koc\\Desktop\\ALBELLI ASSIGNMENT\\Albelli Technical Assignment\\src\\Albelli.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cigdem.koc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\cigdem.koc\\Desktop\\ALBELLI ASSIGNMENT\\Albelli Technical Assignment\\src\\Tests\\Albelli.UnitTests\\Albelli.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cigdem.koc\\Desktop\\ALBELLI ASSIGNMENT\\Albelli Technical Assignment\\src\\Tests\\Albelli.UnitTests\\Albelli.UnitTests.csproj",
+        "projectName": "Albelli.UnitTests",
+        "projectPath": "C:\\Users\\cigdem.koc\\Desktop\\ALBELLI ASSIGNMENT\\Albelli Technical Assignment\\src\\Tests\\Albelli.UnitTests\\Albelli.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\cigdem.koc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cigdem.koc\\Desktop\\ALBELLI ASSIGNMENT\\Albelli Technical Assignment\\src\\Tests\\Albelli.UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cigdem.koc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\cigdem.koc\\Desktop\\ALBELLI ASSIGNMENT\\Albelli Technical Assignment\\src\\Albelli.Domain\\Albelli.Domain.csproj": {
+                "projectPath": "C:\\Users\\cigdem.koc\\Desktop\\ALBELLI ASSIGNMENT\\Albelli Technical Assignment\\src\\Albelli.Domain\\Albelli.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "NSubstitute": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.15.1, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

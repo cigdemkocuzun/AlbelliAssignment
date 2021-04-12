@@ -1,0 +1,24 @@
+C:\Users\cigdem.koc\Desktop\albellliii\Yeni klasör (5)\sample-dotnet-core-cqrs-api-master\src\Albelli.Application\bin\Debug\netcoreapp3.1\Albelli.Application.deps.json
+C:\Users\cigdem.koc\Desktop\albellliii\Yeni klasör (5)\sample-dotnet-core-cqrs-api-master\src\Albelli.Application\bin\Debug\netcoreapp3.1\Albelli.Application.dll
+C:\Users\cigdem.koc\Desktop\albellliii\Yeni klasör (5)\sample-dotnet-core-cqrs-api-master\src\Albelli.Application\bin\Debug\netcoreapp3.1\Albelli.Application.pdb
+C:\Users\cigdem.koc\Desktop\albellliii\Yeni klasör (5)\sample-dotnet-core-cqrs-api-master\src\Albelli.Application\bin\Debug\netcoreapp3.1\Albelli.Domain.dll
+C:\Users\cigdem.koc\Desktop\albellliii\Yeni klasör (5)\sample-dotnet-core-cqrs-api-master\src\Albelli.Application\bin\Debug\netcoreapp3.1\Albelli.Domain.pdb
+C:\Users\cigdem.koc\Desktop\albellliii\Yeni klasör (5)\sample-dotnet-core-cqrs-api-master\src\Albelli.Application\obj\Debug\netcoreapp3.1\Albelli.Application.csprojAssemblyReference.cache
+C:\Users\cigdem.koc\Desktop\albellliii\Yeni klasör (5)\sample-dotnet-core-cqrs-api-master\src\Albelli.Application\obj\Debug\netcoreapp3.1\Albelli.Application.AssemblyInfoInputs.cache
+C:\Users\cigdem.koc\Desktop\albellliii\Yeni klasör (5)\sample-dotnet-core-cqrs-api-master\src\Albelli.Application\obj\Debug\netcoreapp3.1\Albelli.Application.AssemblyInfo.cs
+C:\Users\cigdem.koc\Desktop\albellliii\Yeni klasör (5)\sample-dotnet-core-cqrs-api-master\src\Albelli.Application\obj\Debug\netcoreapp3.1\Albelli.Application.csproj.CoreCompileInputs.cache
+C:\Users\cigdem.koc\Desktop\albellliii\Yeni klasör (5)\sample-dotnet-core-cqrs-api-master\src\Albelli.Application\obj\Debug\netcoreapp3.1\Albelli.Application.csproj.CopyComplete
+C:\Users\cigdem.koc\Desktop\albellliii\Yeni klasör (5)\sample-dotnet-core-cqrs-api-master\src\Albelli.Application\obj\Debug\netcoreapp3.1\Albelli.Application.dll
+C:\Users\cigdem.koc\Desktop\albellliii\Yeni klasör (5)\sample-dotnet-core-cqrs-api-master\src\Albelli.Application\obj\Debug\netcoreapp3.1\Albelli.Application.pdb
+C:\Users\cigdem.koc\Desktop\ALBELLI ASSIGNMENT\Albelli Technical Assignment\src\Albelli.Application\bin\Debug\netcoreapp3.1\Albelli.Application.deps.json
+C:\Users\cigdem.koc\Desktop\ALBELLI ASSIGNMENT\Albelli Technical Assignment\src\Albelli.Application\bin\Debug\netcoreapp3.1\Albelli.Application.dll
+C:\Users\cigdem.koc\Desktop\ALBELLI ASSIGNMENT\Albelli Technical Assignment\src\Albelli.Application\bin\Debug\netcoreapp3.1\Albelli.Application.pdb
+C:\Users\cigdem.koc\Desktop\ALBELLI ASSIGNMENT\Albelli Technical Assignment\src\Albelli.Application\bin\Debug\netcoreapp3.1\Albelli.Domain.dll
+C:\Users\cigdem.koc\Desktop\ALBELLI ASSIGNMENT\Albelli Technical Assignment\src\Albelli.Application\bin\Debug\netcoreapp3.1\Albelli.Domain.pdb
+C:\Users\cigdem.koc\Desktop\ALBELLI ASSIGNMENT\Albelli Technical Assignment\src\Albelli.Application\obj\Debug\netcoreapp3.1\Albelli.Application.csprojAssemblyReference.cache
+C:\Users\cigdem.koc\Desktop\ALBELLI ASSIGNMENT\Albelli Technical Assignment\src\Albelli.Application\obj\Debug\netcoreapp3.1\Albelli.Application.AssemblyInfoInputs.cache
+C:\Users\cigdem.koc\Desktop\ALBELLI ASSIGNMENT\Albelli Technical Assignment\src\Albelli.Application\obj\Debug\netcoreapp3.1\Albelli.Application.AssemblyInfo.cs
+C:\Users\cigdem.koc\Desktop\ALBELLI ASSIGNMENT\Albelli Technical Assignment\src\Albelli.Application\obj\Debug\netcoreapp3.1\Albelli.Application.csproj.CoreCompileInputs.cache
+C:\Users\cigdem.koc\Desktop\ALBELLI ASSIGNMENT\Albelli Technical Assignment\src\Albelli.Application\obj\Debug\netcoreapp3.1\Albelli.Application.csproj.CopyComplete
+C:\Users\cigdem.koc\Desktop\ALBELLI ASSIGNMENT\Albelli Technical Assignment\src\Albelli.Application\obj\Debug\netcoreapp3.1\Albelli.Application.dll
+C:\Users\cigdem.koc\Desktop\ALBELLI ASSIGNMENT\Albelli Technical Assignment\src\Albelli.Application\obj\Debug\netcoreapp3.1\Albelli.Application.pdb

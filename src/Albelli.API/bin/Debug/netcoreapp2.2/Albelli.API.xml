@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Albelli.API</name>
+    </assembly>
+    <members>
+        <member name="M:Albelli.API.Customers.CustomersController.RegisterCustomer(Albelli.Application.CQRS.Customers.Command.RegisterCustomerRequest)">
+            <summary>
+            Register customer.
+            </summary>
+        </member>
+        <member name="M:Albelli.API.Orders.CustomerOrdersController.GetCustomerOrders(System.Guid)">
+            <summary>
+            Get customer orders.
+            </summary>
+            <param name="customerId">Customer ID.</param>
+            <returns>List of customer orders.</returns>
+        </member>
+        <member name="M:Albelli.API.Orders.CustomerOrdersController.AddCustomerOrder(System.Guid,Albelli.API.Orders.CustomerOrderRequest)">
+            <summary>
+            Add customer order.
+            </summary>
+            <param name="customerId">Customer ID.</param>
+            <param name="request">Products list.</param>
+        </member>
+        <member name="M:Albelli.API.Orders.CustomerOrdersController.ChangeCustomerOrder(System.Guid,System.Guid,Albelli.API.Orders.CustomerOrderRequest)">
+            <summary>
+            Change customer order.
+            </summary>
+            <param name="customerId">Customer ID.</param>
+            <param name="orderId">Order ID.</param>
+            <param name="request">List of products.</param>
+        </member>
+        <member name="M:Albelli.API.Orders.CustomerOrdersController.RemoveCustomerOrder(System.Guid,System.Guid)">
+            <summary>
+            Remove customer order.
+            </summary>
+            <param name="customerId">Customer ID.</param>
+            <param name="orderId">Order ID.</param>
+        </member>
+    </members>
+</doc>

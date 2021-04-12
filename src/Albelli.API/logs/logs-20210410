@@ -1,0 +1,36 @@
+{"@t":"2021-04-10T11:32:13.0985519Z","@mt":"Logger configured"}
+{"@t":"2021-04-10T11:32:59.2743319Z","@mt":"Executing command {@Command}","Command":{"Email":"test","Name":"test","Id":"454e299a-0794-430a-bd5b-b6576e386d6d","$type":"RegisterCustomerCommand"},"Context":"Command:454e299a-0794-430a-bd5b-b6576e386d6d","CorrelationId":"9cfe6c68-9f01-48c7-82d4-a46b6bf54037"}
+{"@t":"2021-04-10T11:33:00.7760333Z","@mt":"Command processed successful, result {Result}","Result":"SampleProject.Application.Customers.CustomerDto","Context":"Command:454e299a-0794-430a-bd5b-b6576e386d6d","CorrelationId":"9cfe6c68-9f01-48c7-82d4-a46b6bf54037"}
+{"@t":"2021-04-10T11:33:30.0573240Z","@mt":"Executing command {@Command}","Command":{"CustomerId":{"Value":"b6cae973-560c-4d53-b7a1-cdee1b40fb44","$type":"CustomerId"},"Id":"da50c8ea-f2a9-4ca7-bc51-8e54be7843c3","$type":"MarkCustomerAsWelcomedCommand"},"Context":"Command:da50c8ea-f2a9-4ca7-bc51-8e54be7843c3"}
+{"@t":"2021-04-10T11:33:30.9184721Z","@mt":"Command processed successful, result {Result}","Result":"()","Context":"Command:da50c8ea-f2a9-4ca7-bc51-8e54be7843c3"}
+{"@t":"2021-04-10T12:01:33.6901470Z","@mt":"Logger configured"}
+{"@t":"2021-04-10T12:07:45.2116244Z","@mt":"Executing command {@Command}","Command":{"CustomerId":"42441057-b6c1-4852-9ea7-1f382f99e4eb","Products":[{"Id":"9db6e474-ae74-4cf5-a0dc-ba23a42e2566","Quantity":10,"Name":"strisdng","$type":"ProductDto"}],"Currency":"EUR","Id":"21ed8018-32cb-4ba7-9b36-de14b959c341","$type":"PlaceCustomerOrderCommand"},"Context":"Command:21ed8018-32cb-4ba7-9b36-de14b959c341","CorrelationId":"33acbc8a-787b-46e0-952a-c37e1430dedb"}
+{"@t":"2021-04-10T12:07:47.6905483Z","@mt":"Command processed successful, result {Result}","Result":"3931cc24-1f5f-4f11-bfc9-c30a922b1b64","Context":"Command:21ed8018-32cb-4ba7-9b36-de14b959c341","CorrelationId":"33acbc8a-787b-46e0-952a-c37e1430dedb"}
+{"@t":"2021-04-10T12:08:15.0507064Z","@mt":"Executing command {@Command}","Command":{"PaymentId":{"Value":"8334f903-78e1-49e9-a434-d9ea3691eb21","$type":"PaymentId"},"Id":"1dfccc62-8dfd-4bc1-b1a5-1dd2f76e53db","$type":"SendEmailAfterPaymentCommand"},"Context":"Command:1dfccc62-8dfd-4bc1-b1a5-1dd2f76e53db"}
+{"@t":"2021-04-10T12:08:15.1561072Z","@mt":"Command processed successful, result {Result}","Result":"()","Context":"Command:1dfccc62-8dfd-4bc1-b1a5-1dd2f76e53db"}
+{"@t":"2021-04-10T13:07:41.6993631Z","@mt":"Logger configured"}
+{"@t":"2021-04-10T15:04:32.6064577Z","@mt":"Logger configured"}
+{"@t":"2021-04-10T15:05:01.8591606Z","@mt":"Executing command {@Command}","Command":{"CustomerId":{"Value":"f7fa3bc7-8080-4a9c-9576-173c073b771b","$type":"CustomerId"},"Id":"4177a99d-0730-490b-94c2-5cfc3f0b2a9d","$type":"MarkCustomerAsWelcomedCommand"},"Context":"Command:4177a99d-0730-490b-94c2-5cfc3f0b2a9d"}
+{"@t":"2021-04-10T15:05:02.6154464Z","@mt":"Command processed successful, result {Result}","Result":"()","Context":"Command:4177a99d-0730-490b-94c2-5cfc3f0b2a9d"}
+{"@t":"2021-04-10T15:05:02.6256047Z","@mt":"Executing command {@Command}","Command":{"PaymentId":{"Value":"8416b47b-faf5-4da7-b6e7-4ca059333ee5","$type":"PaymentId"},"Id":"6e4554dd-c164-4193-8fd1-73afd7e45700","$type":"SendEmailAfterPaymentCommand"},"Context":"Command:6e4554dd-c164-4193-8fd1-73afd7e45700"}
+{"@t":"2021-04-10T15:05:02.6507246Z","@mt":"Command processed successful, result {Result}","Result":"()","Context":"Command:6e4554dd-c164-4193-8fd1-73afd7e45700"}
+{"@t":"2021-04-10T15:05:36.0108679Z","@mt":"Logger configured"}
+{"@t":"2021-04-10T15:06:00.5320038Z","@mt":"Executing command {@Command}","Command":{"Email":"hgj","Name":"fgjh","Id":"c4d26cbb-1dbc-4327-85ed-03d3d3602dd7","$type":"RegisterCustomerCommand"},"Context":"Command:c4d26cbb-1dbc-4327-85ed-03d3d3602dd7","CorrelationId":"8c27700d-6c7b-4cc5-b449-8016b3a0ecf9"}
+{"@t":"2021-04-10T15:06:00.9473672Z","@mt":"Command processed successful, result {Result}","Result":"SampleProject.Application.Customers.CustomerDto","Context":"Command:c4d26cbb-1dbc-4327-85ed-03d3d3602dd7","CorrelationId":"8c27700d-6c7b-4cc5-b449-8016b3a0ecf9"}
+{"@t":"2021-04-10T15:06:26.7970976Z","@mt":"Executing command {@Command}","Command":{"Email":"ggggggggggg","Name":"fgggggggggggggjh","Id":"1adce279-3343-418e-9b4a-093a8d5e1e25","$type":"RegisterCustomerCommand"},"Context":"Command:1adce279-3343-418e-9b4a-093a8d5e1e25","CorrelationId":"fb33f695-4e63-453f-a779-7568bcff1208"}
+{"@t":"2021-04-10T15:06:26.8157516Z","@mt":"Command processed successful, result {Result}","Result":"SampleProject.Application.Customers.CustomerDto","Context":"Command:1adce279-3343-418e-9b4a-093a8d5e1e25","CorrelationId":"fb33f695-4e63-453f-a779-7568bcff1208"}
+{"@t":"2021-04-10T15:06:30.0382413Z","@mt":"Executing command {@Command}","Command":{"CustomerId":{"Value":"cb993533-7967-463a-bab2-35175114f5bc","$type":"CustomerId"},"Id":"6a1e5277-a160-4693-9a5c-f428717ee7f0","$type":"MarkCustomerAsWelcomedCommand"},"Context":"Command:6a1e5277-a160-4693-9a5c-f428717ee7f0"}
+{"@t":"2021-04-10T15:06:30.3529475Z","@mt":"Command processed successful, result {Result}","Result":"()","Context":"Command:6a1e5277-a160-4693-9a5c-f428717ee7f0"}
+{"@t":"2021-04-10T15:06:45.0127278Z","@mt":"Executing command {@Command}","Command":{"CustomerId":{"Value":"78d4118d-11b4-4c0a-aaaa-615da6c6913d","$type":"CustomerId"},"Id":"723882f9-d7bd-4809-9584-36660c697932","$type":"MarkCustomerAsWelcomedCommand"},"Context":"Command:723882f9-d7bd-4809-9584-36660c697932"}
+{"@t":"2021-04-10T15:06:45.0233014Z","@mt":"Command processed successful, result {Result}","Result":"()","Context":"Command:723882f9-d7bd-4809-9584-36660c697932"}
+{"@t":"2021-04-10T15:07:37.6955300Z","@mt":"Logger configured"}
+{"@t":"2021-04-10T15:15:27.2867082Z","@mt":"Logger configured"}
+{"@t":"2021-04-10T15:15:42.6781708Z","@mt":"Logger configured"}
+{"@t":"2021-04-10T15:15:58.3201442Z","@mt":"Logger configured"}
+{"@t":"2021-04-10T15:16:54.9135698Z","@mt":"Logger configured"}
+{"@t":"2021-04-10T15:19:03.3060121Z","@mt":"Logger configured"}
+{"@t":"2021-04-10T15:19:19.7979166Z","@mt":"Logger configured"}
+{"@t":"2021-04-10T15:20:44.3634159Z","@mt":"Executing command {@Command}","Command":{"Email":"uı","Name":"uı","Id":"cb3e5db1-31f0-4e07-8325-f05d88f3f5c6","$type":"RegisterCustomerCommand"},"Context":"Command:cb3e5db1-31f0-4e07-8325-f05d88f3f5c6","CorrelationId":"c6c1d069-8bec-4211-97d5-3a4c62cac11d"}
+{"@t":"2021-04-10T15:20:44.9565287Z","@mt":"Command processed successful, result {Result}","Result":"Albelli.Application.Customers.CustomerDto","Context":"Command:cb3e5db1-31f0-4e07-8325-f05d88f3f5c6","CorrelationId":"c6c1d069-8bec-4211-97d5-3a4c62cac11d"}
+{"@t":"2021-04-10T18:55:43.2433925Z","@mt":"Logger configured"}
+{"@t":"2021-04-10T18:56:17.5409153Z","@mt":"Logger configured"}

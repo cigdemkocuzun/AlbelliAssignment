@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hCGPTFgfecpFXnpD2/sp0W/h0aaIIA+NJnUlVlNiSmYb+Z7EZ+8FY1xk2kxZ99S8nlh5B4jvSfEhWOb4lCQKlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cigdem.koc\\Desktop\\ALBELLI ASSIGNMENT\\Albelli Technical Assignment\\src\\Albelli.Domain\\Albelli.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cigdem.koc\\.nuget\\packages\\mediatr\\8.0.0\\mediatr.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

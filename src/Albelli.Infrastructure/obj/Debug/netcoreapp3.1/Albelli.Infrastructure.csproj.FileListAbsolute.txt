@@ -1,0 +1,31 @@
+C:\Users\cigdem.koc\Desktop\albellliii\Yeni klasör (5)\sample-dotnet-core-cqrs-api-master\src\Albelli.Infrastructure\bin\Debug\netcoreapp3.1\Albelli.Infrastructure.deps.json
+C:\Users\cigdem.koc\Desktop\albellliii\Yeni klasör (5)\sample-dotnet-core-cqrs-api-master\src\Albelli.Infrastructure\bin\Debug\netcoreapp3.1\Albelli.Infrastructure.dll
+C:\Users\cigdem.koc\Desktop\albellliii\Yeni klasör (5)\sample-dotnet-core-cqrs-api-master\src\Albelli.Infrastructure\bin\Debug\netcoreapp3.1\Albelli.Infrastructure.pdb
+C:\Users\cigdem.koc\Desktop\albellliii\Yeni klasör (5)\sample-dotnet-core-cqrs-api-master\src\Albelli.Infrastructure\bin\Debug\netcoreapp3.1\Albelli.Application.dll
+C:\Users\cigdem.koc\Desktop\albellliii\Yeni klasör (5)\sample-dotnet-core-cqrs-api-master\src\Albelli.Infrastructure\bin\Debug\netcoreapp3.1\Albelli.Domain.dll
+C:\Users\cigdem.koc\Desktop\albellliii\Yeni klasör (5)\sample-dotnet-core-cqrs-api-master\src\Albelli.Infrastructure\bin\Debug\netcoreapp3.1\Albelli.Application.pdb
+C:\Users\cigdem.koc\Desktop\albellliii\Yeni klasör (5)\sample-dotnet-core-cqrs-api-master\src\Albelli.Infrastructure\bin\Debug\netcoreapp3.1\Albelli.Domain.pdb
+C:\Users\cigdem.koc\Desktop\albellliii\Yeni klasör (5)\sample-dotnet-core-cqrs-api-master\src\Albelli.Infrastructure\obj\Debug\netcoreapp3.1\Albelli.Infrastructure.csprojAssemblyReference.cache
+C:\Users\cigdem.koc\Desktop\albellliii\Yeni klasör (5)\sample-dotnet-core-cqrs-api-master\src\Albelli.Infrastructure\obj\Debug\netcoreapp3.1\Albelli.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\cigdem.koc\Desktop\albellliii\Yeni klasör (5)\sample-dotnet-core-cqrs-api-master\src\Albelli.Infrastructure\obj\Debug\netcoreapp3.1\Albelli.Infrastructure.AssemblyInfo.cs
+C:\Users\cigdem.koc\Desktop\albellliii\Yeni klasör (5)\sample-dotnet-core-cqrs-api-master\src\Albelli.Infrastructure\obj\Debug\netcoreapp3.1\Albelli.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\cigdem.koc\Desktop\albellliii\Yeni klasör (5)\sample-dotnet-core-cqrs-api-master\src\Albelli.Infrastructure\obj\Debug\netcoreapp3.1\Albelli.Infrastructure.csproj.CopyComplete
+C:\Users\cigdem.koc\Desktop\albellliii\Yeni klasör (5)\sample-dotnet-core-cqrs-api-master\src\Albelli.Infrastructure\obj\Debug\netcoreapp3.1\Albelli.Infrastructure.dll
+C:\Users\cigdem.koc\Desktop\albellliii\Yeni klasör (5)\sample-dotnet-core-cqrs-api-master\src\Albelli.Infrastructure\obj\Debug\netcoreapp3.1\Albelli.Infrastructure.pdb
+C:\Users\cigdem.koc\Desktop\ALBELLI ASSIGNMENT\Albelli Technical Assignment\src\Albelli.Infrastructure\bin\Debug\netcoreapp3.1\Albelli.Infrastructure.deps.json
+C:\Users\cigdem.koc\Desktop\ALBELLI ASSIGNMENT\Albelli Technical Assignment\src\Albelli.Infrastructure\bin\Debug\netcoreapp3.1\Albelli.Infrastructure.dll
+C:\Users\cigdem.koc\Desktop\ALBELLI ASSIGNMENT\Albelli Technical Assignment\src\Albelli.Infrastructure\bin\Debug\netcoreapp3.1\Albelli.Infrastructure.pdb
+C:\Users\cigdem.koc\Desktop\ALBELLI ASSIGNMENT\Albelli Technical Assignment\src\Albelli.Infrastructure\bin\Debug\netcoreapp3.1\Albelli.Application.dll
+C:\Users\cigdem.koc\Desktop\ALBELLI ASSIGNMENT\Albelli Technical Assignment\src\Albelli.Infrastructure\bin\Debug\netcoreapp3.1\Albelli.Domain.dll
+C:\Users\cigdem.koc\Desktop\ALBELLI ASSIGNMENT\Albelli Technical Assignment\src\Albelli.Infrastructure\bin\Debug\netcoreapp3.1\Albelli.Application.pdb
+C:\Users\cigdem.koc\Desktop\ALBELLI ASSIGNMENT\Albelli Technical Assignment\src\Albelli.Infrastructure\bin\Debug\netcoreapp3.1\Albelli.Domain.pdb
+C:\Users\cigdem.koc\Desktop\ALBELLI ASSIGNMENT\Albelli Technical Assignment\src\Albelli.Infrastructure\obj\Debug\netcoreapp3.1\Albelli.Infrastructure.csprojAssemblyReference.cache
+C:\Users\cigdem.koc\Desktop\ALBELLI ASSIGNMENT\Albelli Technical Assignment\src\Albelli.Infrastructure\obj\Debug\netcoreapp3.1\Albelli.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\cigdem.koc\Desktop\ALBELLI ASSIGNMENT\Albelli Technical Assignment\src\Albelli.Infrastructure\obj\Debug\netcoreapp3.1\Albelli.Infrastructure.AssemblyInfo.cs
+C:\Users\cigdem.koc\Desktop\ALBELLI ASSIGNMENT\Albelli Technical Assignment\src\Albelli.Infrastructure\obj\Debug\netcoreapp3.1\Albelli.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\cigdem.koc\Desktop\ALBELLI ASSIGNMENT\Albelli Technical Assignment\src\Albelli.Infrastructure\obj\Debug\netcoreapp3.1\Albelli.Infrastructure.csproj.CopyComplete
+C:\Users\cigdem.koc\Desktop\ALBELLI ASSIGNMENT\Albelli Technical Assignment\src\Albelli.Infrastructure\obj\Debug\netcoreapp3.1\Albelli.Infrastructure.dll
+C:\Users\cigdem.koc\Desktop\ALBELLI ASSIGNMENT\Albelli Technical Assignment\src\Albelli.Infrastructure\obj\Debug\netcoreapp3.1\Albelli.Infrastructure.pdb
+C:\Users\cigdem.koc\Desktop\ALBELLI ASSIGNMENT\Albelli Technical Assignment\src\Albelli.Infrastructure\bin\Debug\netcoreapp3.1\Albelli.Infrastructure.runtimeconfig.json
+C:\Users\cigdem.koc\Desktop\ALBELLI ASSIGNMENT\Albelli Technical Assignment\src\Albelli.Infrastructure\bin\Debug\netcoreapp3.1\Albelli.Infrastructure.runtimeconfig.dev.json
+C:\Users\cigdem.koc\Desktop\ALBELLI ASSIGNMENT\Albelli Technical Assignment\src\Albelli.Infrastructure\obj\Debug\netcoreapp3.1\Albelli.Infrastructure.genruntimeconfig.cache
